@@ -1,0 +1,26 @@
+{
+  "name": "graphql-one",
+  "version": "1.0.0",
+  "description": "first play with graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutok/graphql-one.git"
+  },
+  "keywords": [
+    "graphQL"
+  ],
+  "author": "Marcin Walas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutok/graphql-one/issues"
+  },
+  "homepage": "https://github.com/tutok/graphql-one",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "express": "^4.13.3"
+  }
+}
